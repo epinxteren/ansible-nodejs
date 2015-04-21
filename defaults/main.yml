@@ -1,0 +1,4 @@
+---
+nodejs_version: "0.10.24"
+nodejs_path: "/usr/local/"
+nodejs_tmp_dir: "/tmp/"
